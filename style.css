@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: green;
+}
+#buttonContainer {
+    padding: 5px;
+    background-color: green;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
